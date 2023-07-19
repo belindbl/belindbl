@@ -1,6 +1,6 @@
 - Hi, I’m @AdStellae
 - I’m interested in Cyber Security
-- I’m currently learning Java
+- I’m currently learning JavaScript together with HTML and CSS frameworks.
 
 <!---
 AdStellae/AdStellae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
